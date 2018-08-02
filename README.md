@@ -7,7 +7,7 @@ Download the `.otd` file, import into Octoparse, `a free web scraping App,` and 
  * Publisher<br>
  * Published Time<br>
  * Views<br>
- * Likes and Dislikes<br>
+ * Likes and Dislikes<br><br><br>
 ## Scraping Comments and Video Information from Youtube
 ### Data extracted:
 * Title
