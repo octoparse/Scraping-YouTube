@@ -1,6 +1,6 @@
-# Web-Scraping on Youtube
-Web scraping crawlers on the websites, just download the .otd file, import into Octoparse, and get the web data
-## Web Scraping Video Information on Youtube<br>
+# Web-Scraping on YouTube
+Download the .otd file, import into Octoparse, and get the web data
+## Web Scraping Video Information on YouTube<br>
 ### Data extracted: <br>
  * Title<br> 
  * Duration<br>
@@ -9,7 +9,7 @@ Web scraping crawlers on the websites, just download the .otd file, import into 
  * Views<br>
  * Likes and Dislikes<br>
 <br>
-## Web Scraping Video Information and Reviews on Youtube<br>
+## Web Scraping Video Information and Reviews on YouTube<br>
 ### Data extracted: <br>
  * Title <br> 
  * Duration <br>
