@@ -1,5 +1,5 @@
-# Web-Scraping-Crawlers
-Web scraping crawlers on the websites, just download, import and get the web data
+# Web-Scraping on Youtube
+Web scraping crawlers on the websites, just download the .otd file, import into Octoparse, and get the web data
 ## Web Scraping Video Information on Youtube<br>
 ### Data extracted: <br>
  * Title<br> 
