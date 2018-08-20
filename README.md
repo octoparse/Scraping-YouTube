@@ -1,4 +1,4 @@
-# Web Scraping on YouTube
+# Web Scraping Data From YouTube
 Download the `.otd` file, import into Octoparse, `a free web scraping App,` and get the web data
 ## Scraping Video Information from YouTube<br>
 ### Data extracted: <br>
